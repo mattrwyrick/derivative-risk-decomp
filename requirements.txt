@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas
+QuantLib
+rateslib
+plotly
+scipy
